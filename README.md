@@ -21,4 +21,6 @@ and gradually improving solution quality and efficiency.
 - Python (currently)
 - More may be added later
 
+📄 Full problem index: [PROBLEMS.md](PROBLEMS.md)
+
 
